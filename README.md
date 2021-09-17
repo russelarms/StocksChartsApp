@@ -1,7 +1,9 @@
 
-# StocksPerformance 📈 (under development)
+# StocksPerformance 📈
 
 A demo application for android that for the selected timeframe builds financial charts with stock performance calculations using hardcoded data.
+
+![Preview](art/preview.gif)
 
 ## Android development
 
